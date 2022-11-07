@@ -1,3 +1,2 @@
-# CS415Final
-
-Make sure only put neccessary files here.
+# FinalProject415
+Final Project for CS 415
