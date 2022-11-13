@@ -73,7 +73,29 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# We won't be storing our uassets
-*.uasset
+Content/Asian_Village/*
+Content/BlockGame/*
+Content/Collections/*
+Content/Developers/*
+Content/Fantastic_Village_pack/*
+Content/Hour_of_Code/*
+Content/Interface_And_Item_Sounds/*
+Content/LearningKit_Robots/*
+Content/Mannequin/*
+Content/sA_PickupSet_1/*
+Content/StarterContent/*
+Content/Stylized_Egypt/*
+Content/StylizedProvencal/*
+Content/ThirdPerson/*
+Content/ThirdPersonBP/*
+Content/UndeadPack/*
+Content/LearningKit_Games/Assets/*
+Content/LearningKit_Games/MaterialLibrary/*
+Content/LearningKit_Games/Maps*
+Content/LearningKit_Games/Blueprints/BaseClasses/*
+Content/LearningKit_Games/Blueprints/Pickups/*
+Content/LearningKit_Games/Blueprints/Interactables/*
+Content/SCK_Casual01/*
+
 Link to Source Assets.txt
 *.png
